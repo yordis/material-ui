@@ -903,7 +903,7 @@ const classes = makeStyles(theme => ({
   +<Tooltip>
   ```
 
-### Оформление текста
+### Typography
 
 - Заменяем свойство `srOnly`, чтобы не дублировать возможности [System](https://material-ui.com/system/basics/):
 
